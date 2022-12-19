@@ -1,0 +1,3 @@
+First experiment:
+    run three nets inferences benchmark on 3 environment with pytorch config with different blas
+    order: openBlas -> Eigen -> intelMKL
