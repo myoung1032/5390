@@ -1,6 +1,6 @@
 # 5390
 
-## install different BLAS
+## Initial CPU setups: install different BLAS
 
 1. create the environment for different experiment
 conda create -n ENV_NAME --no-default-packages
